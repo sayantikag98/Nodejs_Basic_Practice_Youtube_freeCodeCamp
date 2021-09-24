@@ -1,0 +1,23 @@
+{
+  "name": "Nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "P1_intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayantikag98/Nodejs_Basic_Practice_Youtube_freeCodeCamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayantikag98/Nodejs_Basic_Practice_Youtube_freeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/sayantikag98/Nodejs_Basic_Practice_Youtube_freeCodeCamp#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
